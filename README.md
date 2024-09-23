@@ -1,16 +1,13 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 😃👋
 
-<!--
-**sandyleah/sandyleah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Sandy Leah
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem Jascript
+- Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Se você quiser entrar em contato comigo 📫
+
+sandy.leah.oliveira@escola.pr.gov.br
+
+![](https://media.tenor.com/CjdTfgILIO4AAAAj/welcome-baby-riki.gif)
